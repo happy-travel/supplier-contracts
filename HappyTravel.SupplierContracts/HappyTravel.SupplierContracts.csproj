@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Company>HappyTravel</Company>
+        <Authors>Denis Nikolaev</Authors>
+        <Description>Shared supplier contracts</Description>
+        <PackageReleaseNotes>Initial</PackageReleaseNotes>
+        <PackageProjectUrl>https://github.com/happy-travel/supplier-contracts</PackageProjectUrl>
+        <RepositoryURL>https://github.com/happy-travel/supplier-contracts</RepositoryURL>
+        <Version>1.0.0</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>
